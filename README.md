@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" width="500" />
   <h1 align="center"> Hi there, I´m Alejandra Betancourt</h1>
-  <h3 align="center"> A student of 
+  <h3 align="center"> As a recent graduate in Control and Automation Engineering with a specialization in industrial Process Systems.
 
 <!--
 **androsless/androsless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
